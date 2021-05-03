@@ -1,0 +1,11 @@
+used calc property to remove vertical scroll
+
+set image inside the div and set height of outer div containing image using calc property
+
+height: calc(100vh - height of other stuff above div containing image)
+
+set give 
+width:100% 
+height:100%
+max-width:100%  to image inside 
+this height and width in percentage means height and width relative to the closest parent
